@@ -1,3 +1,5 @@
 # M.L-Sistema-recomendacao em python
 
-Sistema de recomendação M.L - Python
+Sistema de recomendação filmes - MovieLens
+
+Modelo de machine learning com K-NN - Netflix 
